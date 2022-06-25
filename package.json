@@ -1,0 +1,22 @@
+{
+  "name": "chimcuxanhf",
+  "version": "1.0.0",
+  "description": "This is where I write personal Funtions Javascript. This is where Help me improve Skill coding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hau1006/Funtions.git"
+  },
+  "keywords": [
+    "chimcuxanh"
+  ],
+  "author": "HauNv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hau1006/Funtions/issues"
+  },
+  "homepage": "https://github.com/Hau1006/Funtions#readme"
+}
